@@ -1,5 +1,5 @@
-# Love-Is-Grenade
+# Free Mini Planets
 
-It is not pretty, but it is my entry to [Brackeys Game Jam #2](https://itch.io/jam/brackeys-2)
+It is not pretty, but it is my entry to [Blackthornprod GAME JAM #2](https://itch.io/jam/blackthornprodgamejam2)
 
-Play [Love Is Grenade](https://residuelgg.itch.io/love-is-grenade) on residuelgg.itch.io/love-is-grenade
+Play [Free Mini Planets](https://residuelgg.itch.io/free-mini-planets) in browser.
